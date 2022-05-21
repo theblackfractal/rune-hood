@@ -1,11 +1,11 @@
 {
   "name": "Xenoshield",
-  "start_url": "Xenoshield.glb",
+  "start_url": "XenoShield.glb",
   "components": [
     {
       "key": "wear",
       "value": {
-        "boneAttachment": "spine",
+        "boneAttachment": "rightHand",
         "position": [0.4, 0.7, -0.2],
         "quaternion": [0, 0, 0, 1]
       }
