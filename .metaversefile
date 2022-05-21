@@ -6,8 +6,8 @@
       "key": "wear",
       "value": {
         "boneAttachment": "rightHand",
-        "position": [0.4, 0.7, -0.2],
-        "quaternion": [0, 0, 0, 1]
+        "position": [0, 0, 0],
+        "quaternion": [0, 0.70711, 0, 0.70711]
       }
     },
     {
