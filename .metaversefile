@@ -1,7 +1,7 @@
 {
   "name": "Runehood",
   "description": "A cool hood with runes.",
-  "start_url": "https://webaverse.github.io/rune-hood/rune-hood.glb",
+  "start_url": "https://webaverse.github.io/rune-hood/rune-hood-sk.glb",
   "components": [
     {
       "key": "wear",
