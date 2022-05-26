@@ -1,25 +1,17 @@
+
 {
-  "name": "Xenoshield",
-  "start_url": "XenoShield.glb",
+  "name": "Rune Hood",
+  "description": "A cool hood with runes.",
+  "start_url": "rune-hood.glb",
   "components": [
     {
       "key": "wear",
       "value": {
-        "boneAttachment": "rightHand",
-        "position": [0, 0, 0],
-        "quaternion": [0.53, 0.042, 0.135, -0.836]
-      }
-    },
-    {
-      "key": "use",
-      "value": {
-        "animation": "combo",
-        "behavior": "sword",
-        "boneAttachment": "leftHand",
-        "position": [-0.07, -0.03, 0],
-        "quaternion": [-0.43, -0.43, 0.561, 0.561],
-        "scale": [1, 1, 1]
+        "boneAttachment": "head",
+        "position": [0, 0.1, 0],
+        "quaternion": [0, 0, 0, 1]
       }
     }
   ]
 }
+© 2022 GitHub, Inc.
