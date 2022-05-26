@@ -1,15 +1,12 @@
-
 {
-  "name": "Rune Hood",
+  "name": "Runehood",
   "description": "A cool hood with runes.",
-  "start_url": "rune-hood.glb",
+  "start_url": "https://webaverse.github.io/rune-hood/rune-hood.glb",
   "components": [
     {
       "key": "wear",
       "value": {
-        "boneAttachment": "spine",
-        "position": [0, 0.5, 0],
-        "quaternion": [0, 0, 0, 1]
+        "skinnedMesh": "helm"
       }
     }
   ]
